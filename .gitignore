@@ -1,0 +1,4 @@
+mcpipy/build
+mcpipy/dist
+mcpipy/*.egg-info
+__pycache__
